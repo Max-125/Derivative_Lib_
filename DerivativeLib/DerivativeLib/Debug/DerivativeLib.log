@@ -1,0 +1,3 @@
+﻿  DerivativeLib.cpp
+C:\Users\Максим\Desktop\DerivativeLib\DerivativeLib\DerivativeLib.cpp(20,22): warning C4566: character represented by universal-character-name '\u221A' cannot be represented in the current code page (1251)
+  DerivativeLib.vcxproj -> C:\Users\Максим\Desktop\DerivativeLib\Debug\DerivativeLib.exe
